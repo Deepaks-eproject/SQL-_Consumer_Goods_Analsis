@@ -13,4 +13,14 @@ This project explores a dataset from AtliQ Hardwares, a leading global brand spe
 
 This project focuses on leveraging SQL-driven data analysis to extract meaningful insights from the given dataset. By applying advanced querying techniques, we aim to address key business inquiries within the consumer goods sector, offering data-backed solutions that enhance decision-making. Through this analytical approach, we strive to uncover valuable trends and opportunities that drive strategic business improvements.
 
+### Key SQL Concepts Used:
+
+- Data Cleaning (Handling NULL values, removing duplicates)
+- Aggregations (SUM, AVG, COUNT, GROUP BY)
+- Joins (INNER JOIN, LEFT JOIN)
+- Window Functions (RANK, ROW_NUMBER)
+- CTEs and Subqueries  
+
+
+
 
