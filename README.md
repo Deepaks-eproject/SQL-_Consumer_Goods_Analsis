@@ -23,4 +23,3 @@ This project focuses on leveraging SQL-driven data analysis to extract meaningfu
 
 
 
-
